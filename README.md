@@ -55,11 +55,13 @@ Developed an interactive **Power BI dashboard** using customer and transaction d
 ---
 
 ## 📷 Dashboard Preview
-Credit Card Transaction Dashboard
+<h3> Credit Card Transaction Dashboard </h3>
+
 <img width="492" height="275" alt="image" src="https://github.com/user-attachments/assets/073c20ba-5380-4553-bc13-fcaff7283dca" />
 
 
-Credit Card Customer Dashboard
+<h3>Credit Card Customer Dashboard </h3>
+
 <img width="690" height="383" alt="image" src="https://github.com/user-attachments/assets/cc2d7e99-70be-4a99-9ba2-12f928be28ff" />
 
 ---
